@@ -1,4 +1,4 @@
-# Omega 45 
+# Ω45
 ![omega45_0](omega45_0.jpg)
 ![omega45_1](omega45_1.jpg)
 ![omega45_2](omega45_2.jpg)
@@ -33,4 +33,3 @@
 [{w:1.25},"CAPS","A","S","D","F","G","H","J","K","L",":\n;",{w:1.75},"BACKSPACE"],
 [{w:1.75},"SHIFT","Z","X","C","V","B","N","M","Voldn","up","Volup",{w:1.25},"RSHIFT"],
 [{w:1.25},"CTRL",{w:1.25},"WIN",{w:1.25},"ALT",{p:"NDSA SPACE",w:2.25},"FN0",{w:2.75},"SPC","FN2","FN3","FN4",{w:1.25},"FN1"]
-
